@@ -1,0 +1,364 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.login{
+  display: flex;
+  flex-direction: row;
+  height: 100vh;
+  /* background-color: black; */
+}
+.login-form{
+  /* background-color: blue; */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+  width: 30vw;
+  justify-content: center;
+  gap: 1rem;
+  padding: 2rem;
+}
+.login-form input{
+  border: none;
+  border-bottom: 1px solid lightgray;
+  gap: 1rem;
+  font-size: 1rem;
+  padding: 0.5rem 0;
+  width: 100%;
+ 
+}
+.login-form button{
+  width: 100%;
+  height: 3rem;
+  border-radius: 0.5rem;
+  font-size: medium;
+  background-color: darkgreen;
+  color: white;
+  margin-top: 1rem;
+  cursor:pointer;
+
+}
+.login-form button:hover{
+  background-color:green;
+  color:white;
+  transition: all 0.2s;
+}
+.login img{
+  width: 70vw;
+  height: 100vh;
+}
+
+.login-form input:focus{
+  outline: none;
+}
+
+.registrasi{
+  display: flex;
+  flex-direction: row;
+  height: 100vh;
+  /* background-color: black; */
+}
+.registrasi-form{
+  /* background-color: blue; */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+  width: 30vw;
+  justify-content: center;
+  gap: 1rem;
+  padding: 2rem;
+}
+.registrasi-form input{
+  border: none;
+  border-bottom: 1px solid lightgray;
+  gap: 1rem;
+  font-size: 1rem;
+  padding: 0.5rem 0;
+  width: 100%;
+ 
+}
+.registrasi-form button{
+  width: 100%;
+  height: 3rem;
+  border-radius: 0.5rem;
+  font-size: medium;
+  background-color: darkgreen;
+  color: white;
+  margin-top: 1rem;
+  cursor:pointer;
+
+}
+.registrasi-form button:hover{
+  background-color:green;
+  color:white;
+  transition: all 0.2s;
+}
+.registrasi img{
+  width: 70vw;
+  height: 100vh;
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+}
+
+.registrasi-form input:focus{
+  outline: none;
+}
+.home-page{
+  display: flex;
+  height: 100vh;
+  width: 100%;
+}
+.logo{
+  font-size: 2rem;
+  margin-bottom: 3rem;
+}
+.navbar{
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  align-items: center;
+  flex-basis: 30%;
+  border-right: 0.1rem solid black;
+  background-image: url("../assets/images/navbar.jpg") ;
+  background-size: 28rem 50rem;
+  font-size: 1.5rem;
+}
+.category-id{
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  align-items: center;
+}
+.search{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+}
+.search input{
+  border: none;
+  border-bottom: 1px solid lightgray;
+  gap: 1rem;
+  font-size: 1rem;
+  padding: 0.5rem 0;
+  width: 100%;
+}
+.search button{
+  width: 100%;
+  height: 3rem;
+  border-radius: 0.5rem;
+  font-size: medium;
+  background-color: rgb(23, 23, 131);
+  color: white;
+  margin-top: 1rem;
+  cursor:pointer;
+
+}
+
+.search button:hover{
+  background-color:rgb(19, 5, 88);
+  color:white;
+  transition: all 0.2s;
+}
+.search input:focus{
+  outline: none;
+}
+
+.navbar .logo{
+  font-style: italic;
+  font-weight: bold;
+  box-shadow: inse;
+}
+.conttent{
+  width: 70%;
+  background-color:rgb(85, 191, 226);
+}
+.navbar-beforeLogin{
+  padding: 1rem;
+  height: 9vh;
+  display: flex;
+  align-items: center;
+  justify-content: end;
+  width: 100%;
+  border-bottom: 0.1rem solid black;
+}
+.button-navbarbefLog{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+ 
+}
+.button-navbarbefLog button{
+  width: 100%;
+  height: 3rem;
+  border-radius: 0.5rem;
+  font-size: medium;
+  background-color: darkgreen;
+  color: white;
+  margin-top: 0.8rem;
+  cursor:pointer;
+  margin-right: 0.8rem;
+  margin-bottom: 0.8rem;
+  padding: 1rem;
+  margin-left: 0.8rem;
+}
+.button-navbarbefLog button p{
+  align-items: center;
+  justify-content: center;
+}
+.button-navbarbefLog button:hover{
+  background-color:green;
+  color:white;
+  transition: all 0.2s;
+}
+.card-content{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  gap: 1rem;
+  padding: 1rem;
+  margin: 1rem;
+}
+.card-cuisine{
+  border-radius: 0.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color:rgb(99, 181, 233);
+  box-shadow:  5px 10px #1a4483;
+  height: 18rem;
+  width: 13rem;
+}
+
+.card-cuisine img{
+  width: 160px;
+  height: 160px;
+  padding: 1rem;
+}
+.card-cuisine p{
+  padding-bottom: 1rem;
+  font-size: larger;
+  font-weight: bold;
+  font-style: arial;
+  font-size: small;
+}
+
+.card-symbol{
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+}
+
+.card-symbol i{
+  font-size: 2.5rem;
+  padding-bottom: 1rem;
+}
+
+.button-navbarbefLog i{
+  font-size: 2.5rem;
+}
+.button-navbarbefLog a{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  color:black;
+  font-weight: bold;
+}
+
+.detail-background{
+  height: 100vh;
+  background-image: url('./images/depositphotos_133579288-stock-photo-abstract-brown-background.jpg');
+  background-size: 90rem 49rem;
+  width: 100vw;
+}
+.food-title{
+  display: flex;
+  justify-content: center;
+  padding-top: 5vh;
+  padding-bottom: 5vh;
+  border-bottom: 1px solid black;
+}
+.food-content{
+  display: flex;
+  align-items: center;
+  margin: 5rem;
+}
+.food-content .description-Food{
+  display: flex;
+  flex-direction: column;
+  flex-basis: 70%;
+}
+.food-content .qr-Code{
+  display: flex;
+  flex-basis: 30%;
+}
+
+.description-Food{
+  align-items: center;
+}
+.pagination{
+  display: flex;
+  justify-content:center ;
+  padding-top: 5rem;
+  gap: 1rem;
+}
+.pagination button{
+  border: 1px solid black;
+  padding: 0.5rem;
+  box-shadow:  1px 2px #324102;
+  background-color: blanchedalmond;
+  border-radius: 0.2rem;
+}
+.table-detail {
+  margin: 5rem;
+  display: flex;
+  justify-content: center;
+}
+.styled-table {
+  border-collapse: collapse;
+  margin: 25px 0;
+  font-size: 0.9em;
+  font-family: sans-serif;
+  min-width: 400px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+.styled-table thead tr {
+  background-color: #009879;
+  color: #ffffff;
+  text-align: left;
+}
+.styled-table th,
+.styled-table td {
+    padding: 12px 15px;
+}
+.styled-table tbody tr {
+  border-bottom: 1px solid #dddddd;
+}
+
+.history-payment{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  height: 100vh;
+  width: 100vw;
+  background-color:skyblue;
+}
+.table-history{
+  width: 50%;
+ padding: 5rem;
+}
+.qr-history{
+ display: flex;
+ justify-content: center;
+ text-align: center;
+ width: 50%;
+ align-items: center;
+}
+
+

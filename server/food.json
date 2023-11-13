@@ -1,0 +1,116 @@
+[
+    {
+        "name":"Ayam Bakar",
+        "price":20000,
+        "description":"hidangan Asia Tenggara Maritim, terutama hidangan Indonesia atau Malaysia, dari ayam yang dipanggang di atas arang.",
+        "imageUrl":"https://awsimages.detik.net.id/community/media/visual/2022/06/09/resep-ayam-bakar-bumbu-rujak.jpeg?w=650&q=80"
+    },
+    {
+        "name":"Ayam goreng",
+        "price":15000,
+        "description":"ayam goreng tepung adalah hidangan yang dibuat dari potongan daging ayam yang telah dilapisi dengan tepung atau adonan encer yang dibumbui dan digoreng, digoreng rendam, digoreng dengan penggorengan bertekanan, atau digoreng udara.",
+        "imageUrl":"https://awsimages.detik.net.id/community/media/visual/2021/09/18/ilustrasi-ayam-goreng_43.jpeg?w=1200"
+    },
+    {
+        "name":"Ayam Taliwang",
+        "price":25000,
+        "description":" makanan khas Taliwang, Sumbawa Barat, Nusa Tenggara Barat yang bahan utamanya adalah ayam kampung muda.",
+        "imageUrl":"https://awsimages.detik.net.id/community/media/visual/2021/09/18/ilustrasi-ayam-goreng_43.jpeg?w=1200"
+    },
+    {
+        "name":"Ayam Woku",
+        "price":15000,
+        "description":"Ayam Woku merupakan olahan yang berasal dari bahan baku ayam yang dimasak dengan bumbu kuning pedas",
+        "imageUrl":"https://images.tokopedia.net/img/KRMmCm/2022/8/10/bcc68cd1-44a9-4720-b492-94d5789e7574.jpg"
+    },
+    {
+        "name":"Iga Bakar",
+        "price":30000,
+        "description":"makanan yang terbuat dari iga sapi, memiliki perpaduan rasa pedas manis dan perpaduan rasa gurih yang pas.",
+        "imageUrl":"https://cdn.idntimes.com/content-images/post/20200130/iga-bakar-ad49830c16447726a01c6a4b634b4b0e_600x400.jpg"
+    },
+    {
+        "name":"Kakap Bakar",
+        "price":30000,
+        "description":"Hidangan yang terbuat dari ikan kakap dan di masak dengan cara membakarnya diatas arang.",
+        "imageUrl":"https://kbu-cdn.com/dk/wp-content/uploads/kakap-bakar-aroma-kiwi.jpg"
+    },
+    {
+        "name":"Kakap Goreng",
+        "price":30000,
+        "description":"Hidangan yang terbuat dari ikan kakap dan di masak dengan cara menggorengnya di atas minyak panas.",
+        "imageUrl":"https://kbu-cdn.com/dk/wp-content/uploads/kakap-bakar-aroma-kiwi.jpg"
+    },
+    {
+        "name":"Cumi Goreng",
+        "price":25000,
+        "description":"hidangan ini terbuat dari cumi dan dimasak dengan cara di goreng diatas minyak panas.",
+        "imageUrl":"https://awsimages.detik.net.id/community/media/visual/2022/11/30/resep-cumi-goreng-tepung-panir_43.jpeg?w=1200"
+    },
+    {
+        "name":"Cumi Bakar",
+        "price":25000,
+        "description":"hidangan ini terbuat dari cumi dan dimasak dengan cara di bakar diatas arang.",
+        "imageUrl":"https://img-global.cpcdn.com/recipes/729034ed266dafe6/400x400cq70/photo.jpg"
+    },
+    {
+        "name":"Kerang Saus Padang",
+        "price":25000,
+        "description":"hidangan Asia Tenggara Maritim, terutama hidangan Indonesia atau Malaysia, dari kerang yang dimasak dengan bumbu saus padang.",
+        "imageUrl":"https://img-global.cpcdn.com/recipes/e7b246019bf89fb2/1200x630cq70/photo.jpg"
+    },
+    {
+        "name":"Kerang Saus Tiram",
+        "price":25000,
+        "description":"hidangan Asia Tenggara Maritim, terutama hidangan Indonesia atau Malaysia, dari kerang yang dimasak dengan bumbu saus tiram.",
+        "imageUrl":"https://img-global.cpcdn.com/recipes/6addfdacadeedf8c/1200x630cq70/photo.jpg"
+    },
+    {
+        "name":"kerang balado",
+        "price":25000,
+        "description":"hidangan Asia Tenggara Maritim, terutama hidangan Indonesia atau Malaysia, dari kerang yang dimasak dengan bumbu balado.",
+        "imageUrl":"https://img-global.cpcdn.com/recipes/bf3422935c654d57/400x400cq70/photo.jpg"
+    },
+    {
+        "name":"Nasi Putih",
+        "price":5000,
+        "description":"hidangan Asia Tenggara Maritim, terutama hidangan Indonesia atau Malaysia, dari beras dan menjadi makanan pokok.",
+        "imageUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Nasi_dibentuk_bulat.jpg/800px-Nasi_dibentuk_bulat.jpg"
+    },
+    {
+        "name":"Es Jeruk",
+        "price":10000,
+        "description":"minuman yang terbuat dari perasan jeruk.",
+        "imageUrl":"https://tukuya.id/asset/foto_produk/es_jeruk.jpg"
+    },
+    {
+        "name":"Es Teh manis",
+        "price":10000,
+        "description":"minuman yang terbuat dari teh ",
+        "imageUrl":"https://asset.kompas.com/crops/ozAIrh-5mlYSZtquyGpTlc2BBdA=/0x64:800x597/750x500/data/photo/2022/09/25/632fff6409aac.jpg"
+    },
+    {
+        "name":"Jus Mangga",
+        "price":10000,
+        "description":"minuman ini terbuat dari buah mangga yang di blender.",
+        "imageUrl":"https://asset.kompas.com/crops/rdx4Dv7e_ExwRD9ya6hCV5zlVqo=/229x14:1000x528/750x500/data/photo/2020/03/15/5e6df5bdebd79.jpg"
+    },
+    {
+        "name":"Jus Apel",
+        "price":10000,
+        "description":"minuman ini terbuat dari buah apel yang di blende.",
+        "imageUrl":"https://awsimages.detik.net.id/community/media/visual/2023/01/22/jus-apel_169.jpeg?w=600&q=90"
+    },
+    {
+        "name":"Jus Jeruk",
+        "price":10000,
+        "description":"minuman ini terbuat dari buah jeruk yang di blende.",
+        "imageUrl":"https://www.topwisata.info/wp-content/uploads/2022/05/Jus-Jeruk-Sederhana-1.jpg"
+    },
+    {
+        "name":"Puding Coklat",
+        "price":10000,
+        "description":"cemilan penutup yang terbuat dari agar agar berasa coklat.",
+        "imageUrl":"https://awsimages.detik.net.id/community/media/visual/2023/05/16/resep-puding-cokelat-saus-vanili.jpeg?w=1200"
+    }
+]
